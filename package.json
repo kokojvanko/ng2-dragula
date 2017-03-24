@@ -1,5 +1,5 @@
 {
-  "name": "ng2-dragula-base",
+  "name": "ng2-dragula",
   "private": true,
   "version": "1.3.0",
   "main": "index.js",
@@ -96,7 +96,6 @@
     "karma-sauce-launcher": "^1.1.0",
     "lite-server": "^2.2.2",
     "lodash": "^4.17.4",
-    "markdown-loader": "github:kokojvanko/markdown-loader",
     "marked": "^0.3.6",
     "ng2-page-scroll": "^4.0.0-beta.2",
     "ng2-bootstrap": "^1.2.2",
